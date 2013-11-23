@@ -19,7 +19,7 @@ Tim Boelaars' Monicons 1/2 (Please see "Source" for links) - no use of assets in
 
 License
 ===========
-Feel free to do whatever you want except resale. However, do respect Tim Boelaars' and Pixeden's copyright policies. 
+Feel free to do whatever you'd like except resale. Also, please respect Tim Boelaars' and Pixeden's copyright policies. 
 
 
 
