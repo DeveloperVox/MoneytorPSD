@@ -5,8 +5,8 @@ Moneytor is a CONCEPTUAL mobile application to help people identify and track sp
 
 Fonts
 ===========
-Adelle
-Din
+Adelle  
+Din  
 Haas Neue Grotesk (Similar to Helvetica Neue)
 
 
@@ -25,7 +25,7 @@ Feel free to do whatever you want except resale. However, do respect Tim Boelaar
 
 Sources
 ===========
-iPhone5 Mockup: http://www.pixeden.com/
-Icons Used: 
-http://store.timboelaars.nl/product/monicons-1-100-vector-icons
-http://store.timboelaars.nl/product/monicons-2-100-vector-icons
+iPhone5 Mockup: http://www.pixeden.com/  
+Icons Used:   
+http://store.timboelaars.nl/product/monicons-1-100-vector-icons  
+http://store.timboelaars.nl/product/monicons-2-100-vector-icons  
