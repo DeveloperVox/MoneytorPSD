@@ -2,6 +2,8 @@ MoneytorPSD
 ===========
 Moneytor is a CONCEPTUAL mobile application to help people identify and track spending habits. The app has been featured on App Design Served (http://www.appdesignserved.co/gallery/Moneytor/11833767).
 
+![Screenshot01](http://preview.typebig.com/github-preview-images/preview-github-01.png)
+
 
 Fonts
 ===========
